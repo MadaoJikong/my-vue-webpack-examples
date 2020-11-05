@@ -1,5 +1,8 @@
 <template>
-  <div class="flex">我的第一个vue</div>
+  <div class="flex">
+    <div>1212</div>
+    <div>我的第一个vue</div>
+  </div>
 </template>
 
 <script>
